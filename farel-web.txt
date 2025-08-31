@@ -1,5 +1,6 @@
 Portofolio
-- Nama 
+- Identitas
 - Pengalaman
 - Skill
 - Penghargaan
+- Rekam Jejak
