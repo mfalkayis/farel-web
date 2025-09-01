@@ -2,3 +2,4 @@ Rencana Identitas
 - Nama
 - Asal
 - Umur
+- Hobi
